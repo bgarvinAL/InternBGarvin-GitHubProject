@@ -2,7 +2,7 @@ name: Automatic Pull Request
 on:
   push:
     branches:
-      - 'Test'
+      - Test
       
 jobs:
   create-pull-requests:
